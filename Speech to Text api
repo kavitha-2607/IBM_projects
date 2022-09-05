@@ -1,0 +1,9 @@
+Auto generated service credentials
+{
+  "apikey": "n6HWaVI-VyWQ02zAUGHdsQFDaGVy9qiws5DziOPCPrEX",
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:speech-to-text:eu-gb:a/12cdc66cf29240daafde35e65a50944e:d256ec36-4607-4638-bc4d-0dc7877e9843:resource-key:de9d58cb-24c3-4067-a0ed-b35c4426b959",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/12cdc66cf29240daafde35e65a50944e::serviceid:ServiceId-a3a4e61c-3b0c-4b7c-99e5-10c8c384378e",
+  "url": "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/d256ec36-4607-4638-bc4d-0dc7877e9843"
+}
